@@ -18,7 +18,24 @@ A glorified achievements app for life
     - Update personal info
     - Profile pic
   - Main Screen
+
     - List of available achievements
+
+      - Achievement template:
+
+      ```
+      {
+        name: "",
+        description: "",
+        category: "",
+        worth: 0,
+        passed: false,
+        saved: false,
+        belief: 0,
+        date: new Date(Date.now())
+      }
+      ```
+
     - List of completed achievements
     - Score tally
     - Ability to mark acheivement as complete
