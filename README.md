@@ -10,6 +10,7 @@ A glorified achievements app for life
 ### MVP
 
 - Personal profile
+
   - Sign in screen
   - PW recovery
   - Account settings screen
@@ -49,3 +50,15 @@ A glorified achievements app for life
   - premium currency for AI generation
   - Voluntary ads to earn currency
 - AI generated achievements?
+
+## Tasks
+
+- Implement expo router: https://docs.expo.dev/router/introduction/
+- Create profile view
+  - Create design mock up for this page
+- Create sign in view
+  - Create design mock up for this page
+- Implement a backend infrastructure (research this)
+  - Laravel?
+  - What is standard for expo apps?
+  - What kind of DB makes sense?
