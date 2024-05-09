@@ -53,12 +53,12 @@ A glorified achievements app for life
 
 ## Tasks
 
-- Implement expo router: https://docs.expo.dev/router/introduction/
+- ~~Implement expo router: https://docs.expo.dev/router/introduction/~~
 - Create profile view
   - Create design mock up for this page
 - Create sign in view
   - Create design mock up for this page
 - Implement a backend infrastructure (research this)
-  - Laravel?
+  - Laravel? (I'm leaning towards this - RA)
   - What is standard for expo apps?
   - What kind of DB makes sense?
