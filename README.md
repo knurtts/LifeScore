@@ -10,7 +10,6 @@ A glorified achievements app for life
 ### MVP
 
 - Personal profile
-
   - Sign in screen
   - PW recovery
   - Account settings screen
@@ -19,11 +18,8 @@ A glorified achievements app for life
     - Update personal info
     - Profile pic
   - Main Screen
-
     - List of available achievements
-
       - Achievement template:
-
       ```
       {
         name: "",
@@ -36,7 +32,6 @@ A glorified achievements app for life
         date: new Date(Date.now())
       }
       ```
-
     - List of completed achievements
     - Score tally
     - Ability to mark acheivement as complete
@@ -53,12 +48,12 @@ A glorified achievements app for life
 
 ## Tasks
 
-- Implement expo router: https://docs.expo.dev/router/introduction/
+- ~~Implement expo router: https://docs.expo.dev/router/introduction/~~
 - Create profile view
   - Create design mock up for this page
 - Create sign in view
   - Create design mock up for this page
 - Implement a backend infrastructure (research this)
-  - Laravel?
+  - Laravel? (I'm leaning towards this - RA)
   - What is standard for expo apps?
   - What kind of DB makes sense?
